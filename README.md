@@ -12,22 +12,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiku7296&label=Profile%20views&color=0e75b6&style=flat" alt="chiku7296" /> </p>
 
-- 🌍 I'm based in **Madhubani, Bihar**
+- 🌍 I'm based in **Jhunjhunu, Rajasthan**
 
 - 🌱 I’m currently learning **Full Stack Developement**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Hibernate, Spring, Rest-API & DSA**
 
-- 📫 How to reach me **shivammasaistudent@gmail.com**
+- 📫 How to reach me **ps7296915528@gmail.com**
 
 - 👨‍💻 All my projects are available at my [Portfolio](https://chiku7296.github.io/)
     
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
--  Student Registration System **[Repo](https://github.com/chiku7296/even-party-7284)**
-
--  Belk.com Clone **[Repo](https://github.com/Riteshsalve/silky-toothbrush-7443)**
--  Quick Store **[Repo](https://guileless-macaron-20da24.netlify.app/)**
 
 <br/>
 
