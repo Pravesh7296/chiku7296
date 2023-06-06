@@ -23,7 +23,10 @@
 - 👨‍💻 All my projects are available at my [Portfolio](https://chiku7296.github.io/)
     
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+-  Stock Broker System **[Repo](https://github.com/chiku7296/Stock_broker_System)**
 
+-  firstCry.com Clone **[Repo](https://github.com/viveKing21/tiny-toes-foolish-quiet-4224)**
+-  tiny-toes **[Repo](https://rad-wisp-729722.netlify.app/)**
 
 <br/>
 
